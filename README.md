@@ -88,9 +88,4 @@ SynapseCode meets these needs by integrating advanced AI capabilities with robus
 - **AI Chatbot:**  
   - An interactive AI chatbot is embedded within the editor, offering instant help, brainstorming ideas, and generating documentation on demand.
 
-## Installation & Setup
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/Abhi13-02/Haxplore.git
-   cd Haxplore
+# Made with Love ❤️ by Pooja and homies  
